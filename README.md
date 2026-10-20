@@ -25,7 +25,7 @@ Kotlin and Jetpack Compose applications covering UI development, permissions, fi
 Small C# projects focused on gameplay systems, physics and AI behaviour (npc)
 
 #### Note
-With tech being led with strong AI models, I want to develop my skills and speeding workflow with AI aside with the knowledge I have gained not using it in university. 
+With tech being led with strong AI models, I want to develop my skills and speeding workflow with AI along with the knowledge I have gained not using it in university. 
 
 
 ## Contact
