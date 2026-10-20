@@ -22,8 +22,12 @@ Full-stack airline booking application built with Next.js and MongoDB.
 Kotlin and Jetpack Compose applications covering UI development, permissions, file handling, and application structure.
 
 ### Unity Development
-Small C# projects focused on gameplay systems, physics, and AI behaviour.
+Small C# projects focused on gameplay systems, physics and AI behaviour (npc)
+
+#### Note
+With tech being led with strong AI models, I want to develop my skills and speeding workflow with AI aside with the knowledge I have gained not using it in university. 
+
 
 ## Contact
- --yet to be added--
+-- yet to be added --
  
